@@ -1,0 +1,1000 @@
+ 1000  nohup python3 "model_training_ww.py" &
+ 1001  python3 "predict_img_ww.py" 
+ 1002  python3 "prediction_ww.py" 
+ 1003  python3 "predict_img_ww.py" 
+ 1004  python3 dataset_creator_ww.py 
+ 1005  nohup python3 "model_training_ww.py" &
+ 1006  python3 "predict_img_ww.py" 
+ 1007  nvidia-smi -l 1
+ 1008  ps -aef | grep python
+ 1009  nvidia-smi -l 1
+ 1010  cd l
+ 1011  cd dl_catalano
+ 1012  cd deep_learning_computer_vision_segmenter/
+ 1013  cd Second_Stage_Segmenter/
+ 1014  cd waterways_unet/
+ 1015  ls
+ 1016  python3 dataset_creator_ww.py 
+ 1017  bash file.sh 
+ 1018  nohup python3 "model_training_ww.py" &
+ 1019  python3 dataset_creator_ww.py 
+ 1020  nohup python3 "model_training_ww.py" &
+ 1021  wait; python3 "prediction_ww.py" &
+ 1022  python3 "predict_img_ww.py" 
+ 1023  cd dl_catalano
+ 1024  cd deep_learning_computer_vision_segmenter/
+ 1025  cd Second_Stage_Segmenter/
+ 1026  cd w
+ 1027  cd waterways_unet/
+ 1028  python3 "predict_img_ww.py" 
+ 1029  python3 dataset_creator_ww.py 
+ 1030  nohup python3 "model_training_ww.py" &
+ 1031  python3 "predict_img_ww.py" 
+ 1032  ls
+ 1033  if load_image.py 
+ 1034  if load_image.py echo "true"
+ 1035  if load_image.py then   echo "true"  fi
+ 1036  if load_image.py; then   echo "true" ; fi
+ 1037  if "load_image.py"; then   echo "true" ; fi
+ 1038  if test -f "$FILE"; then
+ 1039  if test -f "load_image.py"; then echo "si";fi
+ 1040  python3 "predict_img_ww.py" 
+ 1041  bash wait_file.sh 
+ 1042  ps -aef |grep py
+ 1043  nvidia-smi -l 1
+ 1044  ps -aef |grep py
+ 1045  cd dl
+ 1046  cd dl_catalano
+ 1047  cd deep_learning_computer_vision_segmenter/
+ 1048  cd Second_Stage_Segmenter/
+ 1049  ls
+ 1050  python3 "val_train_creator.py" 
+ 1051  nohup python3 "model_training.py" &
+ 1052  ls -l
+ 1053  wait;python3 "Prediction_function.py" 
+ 1054  python3 "Prediction_function.py" 
+ 1055  python3 "prediction.py" 
+ 1056  ps -aef | grep python
+ 1057  ps
+ 1058  ps -a
+ 1059  ps -f
+ 1060  ps -l
+ 1061  ps -aef
+ 1062  ps -aef | grep python
+ 1063  python3 "val_train_creator.py" 
+ 1064  ps -aef | grep python
+ 1065  python3 "predict_img_ww.py" 
+ 1066  ls
+ 1067  cd waterways_unet/
+ 1068  python3 "predict_img_ww.py" 
+ 1069  nvidia-smi -l 1
+ 1070  nohup python3 "model_training.py" &
+ 1071  ps -aef | grep python
+ 1072  nohup python3 "model_training.py" &
+ 1073  ps -aef | grep sh
+ 1074  ps -aef | grep file.sh
+ 1075  dir
+ 1076  cd /mnt
+ 1077  dir
+ 1078  nvidia-smi
+ 1079  ps -aef | grep python 
+ 1080  ps -aef | grep 49196
+ 1081  nvidia-smi
+ 1082  dir
+ 1083  cd Datasets/
+ 1084  dir
+ 1085  cd UNET
+ 1086  dir
+ 1087  whoami
+ 1088  dir
+ 1089  cd TRAIN
+ 1090  dur
+ 1091  dir
+ 1092  mkdir River
+ 1093  dir
+ 1094  mv * River
+ 1095  mv -r * River
+ 1096  mv -R ./* River
+ 1097  ls
+ 1098  ls River
+ 1099  dir
+ 1100  mkdir Lake
+ 1101  dir
+ 1102  cd ..
+ 1103  cd TEST
+ 1104  dir
+ 1105  mkdir River
+ 1106  mv -R ./* River
+ 1107  dir
+ 1108  mv -r ./* River
+ 1109  dir
+ 1110  ls River
+ 1111  mkdir River
+ 1112  mv -r ./* ./River
+ 1113  dir
+ 1114  ls -l River
+ 1115  mv -R ./* ./River
+ 1116  ls -l River
+ 1117  mv -r ./* ./River
+ 1118  mv --r ./* ./River
+ 1119  mv -r ./* ./River
+ 1120  mv -r * ./River
+ 1121  ls -l River
+ 1122  dir
+ 1123  mv River* ./River
+ 1124  dir
+ 1125  dir River
+ 1126  mkdir Lake
+ 1127  dir
+ 1128  cd ..
+ 1129  whoami
+ 1130  dir
+ 1131  cd TRAIN
+ 1132  dir
+ 1133  ls -l River | wc -l 
+ 1134  cd ..
+ 1135  cd TEST
+ 1136  dir
+ 1137  ls -l River | wc -l 
+ 1138  dir
+ 1139  mv /IstatDL/Users/SeaLake.zip ../
+ 1140  su - pugliese
+ 1141  dir
+ 1142  cd ..
+ 1143  dir
+ 1144  unzip SeaLake.zip 
+ 1145  su - Istatadmin
+ 1146  ls SeaLake
+ 1147  ls SeaLake | wc -l 
+ 1148  dir
+ 1149  exit
+ 1150  cd dl_catalano
+ 1151  cd deep_learning_computer_vision_segmenter/
+ 1152  cd Second_Stage_Segmenter/
+ 1153  nohup python3 "model_training.py" &
+ 1154  wait;python3 "Prediction_function.py" &
+ 1155  ps -aef | grep python
+ 1156  fs
+ 1157  bash file.sh &
+ 1158  ps -aef | grep python
+ 1159  wait;python3 "Prediction_function.py" 
+ 1160  python3 "predict_img_ww.py" 
+ 1161  cd waterways_unet/
+ 1162  python3 "predict_img_ww.py" 
+ 1163  ps -aef | grep python
+ 1164  python3 "predict_ww.py" 
+ 1165  ls
+ 1166  python3 "prediction_ww.py" 
+ 1167  nvidia-smi -l 1
+ 1168  cd dl
+ 1169  cd dl_catalano
+ 1170  cd deep_learning_computer_vision_segmenter/
+ 1171  cd Second_Stage_Segmenter/
+ 1172  cd waterways_unet/
+ 1173  python3 "prediction_ww.py" 
+ 1174  python3 "predict_img_ww.py" 
+ 1175  pytohn3 "dataset_creator_ww.py" 
+ 1176  python3 "dataset_creator_ww.py" 
+ 1177  python3 "lake_prediction.py" 
+ 1178  python3 "dataset_creator_ww.py" 
+ 1179  python3 "lake_prediction.py" 
+ 1180  python3 "dataset_creator_ww.py" 
+ 1181  python3 "model_training_ww.py" 
+ 1182  python3 "dataset_creator_ww.py" 
+ 1183  python3 "model_training_ww.py" 
+ 1184  nohup python3 "model_training_ww.py" &
+ 1185  python3 "prediction_ww.py" 
+ 1186  cd dl_catalano
+ 1187  cd deep_learning_computer_vision_segmenter/
+ 1188  cd Second_Stage_Segmenter/
+ 1189  cd waterways_unet/
+ 1190  python3 "dataset_creator_ww.py" 
+ 1191  nohup python3 "model_training_ww.py" &
+ 1192  kill 29595
+ 1193  ps -aef | grep pytohn
+ 1194  nohup python3 "model_training_ww.py" &
+ 1195  ps -aef | grep pytohn
+ 1196  ps -aef | grep python
+ 1197  kill 29683
+ 1198  nohup python3 "model_training_ww.py" &
+ 1199  ps -aef | grep python
+ 1200  nohup python3 "model_training_ww.py" &
+ 1201  wait;python3"prediction_ww.py" 
+ 1202  wait; python3"prediction_ww.py" 
+ 1203  wait; python3 "prediction_ww.py" 
+ 1204  nohup python3 "model_training_ww.py" &
+ 1205  wait;python3 "prediction_ww.py" 
+ 1206  python3 "predict_img_ww.py" 
+ 1207  nohup python3 "model_training_ww.py" &
+ 1208  ps -aef | grep python
+ 1209  wait;python3 "prediction_ww.py" 
+ 1210  python3 "dataset_creator_ww.py" 
+ 1211  nohup python3 "model_training_ww.py" &
+ 1212  kill 33759
+ 1213  nohup python3 "model_training_ww.py" &
+ 1214  wait;python3 "prediction_ww.py" 
+ 1215  nohup python3 "model_training_ww.py" &
+ 1216  cd dl_catalano
+ 1217  cd deep_learning_computer_vision_segmenter/
+ 1218  cd Second_Stage_Segmenter/
+ 1219  cd w
+ 1220  cd waterways_unet/
+ 1221  ps -aef | grep python
+ 1222  nohup python3 "model_training_ww.py" &
+ 1223  python3 "dataset_creator_ww.py" 
+ 1224  nohup python3 "model_training_ww.py" &
+ 1225  ps -aef | grep python
+ 1226  kill 35953
+ 1227  python3 "dataset_creator_ww.py" 
+ 1228  nohup python3 "model_training_ww.py" &
+ 1229  wait;python3 "prediction_ww.py" 
+ 1230  python3 "predict_img_ww.py" 
+ 1231  python3 "dataset_creator_ww.py" 
+ 1232  nohup python3 "model_training_ww.py" &
+ 1233  wait;python3 "prediction_ww.py" 
+ 1234  nvidia-smi -l 1
+ 1235  cd dl
+ 1236  nvidia-smi -l 1
+ 1237  cd Second_Stage_Segmenter/
+ 1238  cd waterways_unet/
+ 1239  python3 "predict_img_ww.py" 
+ 1240  wait;python3 "prediction_ww.py" 
+ 1241  python3 "predict_img_ww.py" 
+ 1242  nohup python3 "model_training_ww.py" &
+ 1243  python3 "predict_img_ww.py" 
+ 1244  python3 "dataset_creator_ww.py" 
+ 1245  nohup python3 "model_training_ww.py" &
+ 1246  wait;python3 "dataset_creator_ww.py" 
+ 1247  wait;python3 "prediction_ww.py" 
+ 1248  python3 "predict_img_ww.py" 
+ 1249  nvidia-smi -l 1
+ 1250  cd dl
+ 1251  cd dl_catalano
+ 1252  cd deep_learning_computer_vision_segmenter/
+ 1253  cd Second_Stage_Segmenter/
+ 1254  cd waterways_unet/
+ 1255  wait;python3 "dataset_creator_ww.py" 
+ 1256  nohup python3 "model_training_ww.py" &
+ 1257  wait;python3 "prediction_ww.py" 
+ 1258  python3 "predict_img_ww.py" 
+ 1259  wait;python3 "dataset_creator_ww.py" 
+ 1260  nohup python3 "model_training_ww.py" &
+ 1261  wait;python3 "prediction_ww.py" 
+ 1262  python3 "predict_img_ww.py" 
+ 1263  wait;python3 "dataset_creator_ww.py" 
+ 1264  nohup python3 "model_training_ww.py" &
+ 1265  python3 "predict_img_ww.py" 
+ 1266  wait;python3 "prediction_ww.py" 
+ 1267  nvidia-smi -l 1
+ 1268  cd dl_catalano
+ 1269  cd deep_learning_computer_vision_segmenter/
+ 1270  cd Second_Stage_Segmenter/
+ 1271  cd waterways_unet/
+ 1272  python3 "predict_img_ww.py" 
+ 1273  python3 "dataset_creator_ww_sbagliato.py" 
+ 1274  python3 "binary_class_river_lake.py" 
+ 1275  python3 "dataset_creator_ww_sbagliato.py" 
+ 1276  python3 "binary_class_river_lake.py" 
+ 1277  python3 "dataset_creator_ww_sbagliato.py" 
+ 1278  python3 "binary_class_river_lake.py" 
+ 1279  cd dl
+ 1280  cd dl_catalano
+ 1281  cd deep_learning_computer_vision_segmenter/
+ 1282  cd Second_Stage_Segmenter/
+ 1283  ls
+ 1284  nvidia-smi -l 1
+ 1285  cd dl_catalano
+ 1286  cd deep_learning_computer_vision_segmenter/
+ 1287  cd Second_Stage_Segmenter/
+ 1288  ls
+ 1289  python3 "val_train_creator.py" 
+ 1290  nohup python3 "model_training.py" &
+ 1291  kill 54169
+ 1292  python3 "val_train_creator.py" 
+ 1293  nohup python3 "model_training.py" &
+ 1294  python3 "Prediction_function.py" 
+ 1295  cd waterways_unet/
+ 1296  python3 "dataset_creator_ww
+ 1297  python3 "dataset_creator_ww.py"
+ 1298  nohup python3 "model_training_ww.py" &
+ 1299  wait; python3 "prediction_ww.py" 
+ 1300  wait; python3 "prediction_img_ww.py" 
+ 1301  wait; python3 "predict_img_ww.py" 
+ 1302  python3 "dataset_creator_ww.py"
+ 1303  nohup python3 "model_training_ww.py" &
+ 1304  wait; python3 "predict_img_ww.py" 
+ 1305  python3 "dataset_creator_ww.py"
+ 1306  nohup python3 "model_training_ww.py" &
+ 1307  wait; python3 "predict_img_ww.py" 
+ 1308  cd ..
+ 1309  python3 "val_train_creator.py" 
+ 1310  cd dl_catalano
+ 1311  cd deep_learning_computer_vision_segmenter/
+ 1312  cd Second_Stage_Segmenter/
+ 1313  python3 "utils.py" 
+ 1314  python3 "val_train_creator.py" 
+ 1315  nohup python3 "model_training.py" &
+ 1316  cd dl
+ 1317  cd dl_catalano
+ 1318  cd deep_learning_computer_vision_segmenter/
+ 1319  cd Second_Stage_Segmenter/
+ 1320  python3 "Prediction_function.py" 
+ 1321  nvidia-smi -l 1
+ 1322  pidof python3
+ 1323  kill 90731
+ 1324  pidof python3
+ 1325  grep -aef | grep file
+ 1326  grep -aef 
+ 1327  cd dl
+ 1328  cd dl_catalano
+ 1329  cd deep_learning_computer_vision_segmenter/
+ 1330  cd Se
+ 1331  cd Second_Stage_Segmenter/
+ 1332  python3 "val_train_creator.py" 
+ 1333  nohup python3 "model_training.py" &
+ 1334  pidof python
+ 1335  python3 "val_train_creator.py" 
+ 1336  nohup python3 "model_training.py" &
+ 1337  wait &; python3 "Prediction_function.py" &
+ 1338  wait & ; python3 "Prediction_function.py" &
+ 1339  bash file.sh &
+ 1340  grep -aef | grep file
+ 1341  pidof python3
+ 1342  pidof sh
+ 1343  pidof .sh
+ 1344  pidof bash
+ 1345  grep -aef
+ 1346  ps
+ 1347  ps -aef | grep python
+ 1348  ps -aef | grep file.sh
+ 1349  kill 91698
+ 1350  ps -aef | grep file.sh
+ 1351  ps -aef | grep python
+ 1352  kill 112601
+ 1353  cd dl 
+ 1354  cd dl_catalano
+ 1355  cd deep_learning_computer_vision_segmenter/
+ 1356  cd Second_Stage_Segmenter/
+ 1357  python3 "Prediction_function.py" &
+ 1358  python3 "prediction.py" 
+ 1359  python3 "val_train_creator.py" 
+ 1360  nohup python3 "model_training.py" &
+ 1361  wait &; python3 "Prediction_function.py" &
+ 1362  python3 "Prediction_function.py" &
+ 1363  python3 "val_train_creator.py" 
+ 1364  nohup python3 "model_training.py" &
+ 1365  wait;pyhon3 "Prediction_function.py" &
+ 1366  cd dl_catalano
+ 1367  cd deep_learning_computer_vision_segmenter/
+ 1368  cd Second_Stage_Segmenter/
+ 1369  wait;pyhon3 "Prediction_function.py" &
+ 1370  nvidia-smi -l 1
+ 1371  cd de
+ 1372  cd dee
+ 1373  ls
+ 1374  cd dl_catalano
+ 1375  cd deep_learning_
+ 1376  cd deep_learning_computer_vision_segmenter/
+ 1377  cd Second_Stage_Segmenter/
+ 1378  pyhon3 "Prediction_function.py" 
+ 1379  python3 "Prediction_function.py" 
+ 1380  python3 "single_img.py" 
+ 1381  python3 "val_train_creator.py" 
+ 1382  nohup python3 "model_training.py" &
+ 1383  cd cdl
+ 1384  cd dl_catalano
+ 1385  cd deep_learning_c
+ 1386  cd deep_learning_computer_vision_segmenter/
+ 1387  cd Second_Stage_Segmenter/
+ 1388  nohup python3 "model_training.py" &
+ 1389  kill 9352
+ 1390  python3 "Prediction_function.py" &
+ 1391  nvidia-smi -l 1
+ 1392  ps -aef | grep python
+ 1393  ps
+ 1394  ps -a
+ 1395  ps -aef
+ 1396  cd dl_catalano
+ 1397  cd deep_learning_computer_vision_segmenter/
+ 1398  cd Second_Stage_Segmenter/
+ 1399  python3 "val_train_creator.py" 
+ 1400  less /proc/meminfo
+ 1401  python3 "val_train_creator.py" 
+ 1402  python3
+ 1403  python3 "join_dataset.py" 
+ 1404  nohup python3 "coupled_model.py" &
+ 1405  python3 "coupled_model.py" 
+ 1406  cd dl_catalano
+ 1407  cd deep_learning_computer_vision_segmenter/
+ 1408  cd Second_Stage_Segmenter/
+ 1409  python3 "val_train_creator.py" 
+ 1410  python3 "utils.py" 
+ 1411  python3 "val_train_creator.py" 
+ 1412  python3 "join_dataset.py" 
+ 1413  python3 "coupled_model.py" 
+ 1414  nohup python3 "coupled_model.py" &
+ 1415  python3 "single_img.py" 
+ 1416  nvidia-smi -l 1
+ 1417  cd dl_catalano
+ 1418  cd deep_learning_c
+ 1419  cd deep_learning_computer_vision_segmenter
+ 1420  cd Second_Stage_Segmenter/
+ 1421  python3 "single_img.py" 
+ 1422  ps -aef |grep python
+ 1423  cd dl_catalano
+ 1424  cd deep_learning_computer_vision_segmenter/
+ 1425  cd Second_Stage_Segmenter/
+ 1426  python3 "val_train_creator.py" 
+ 1427  python3 "join_dataset.py" 
+ 1428  cd dl_catalano
+ 1429  cd deep_learning_computer_vision_segmenter/
+ 1430  cd Second_Stage_Segmenter/
+ 1431  python3 "join_dataset.py" 
+ 1432  ps -aef |grep python
+ 1433  nvidia-smi -l 1
+ 1434  cd dl_catalano
+ 1435  cd deep_learning_
+ 1436  cd deep_learning_c
+ 1437  cd deep_learning_computer_vision_segmenter/
+ 1438  cd Second_Stage_Segmenter/
+ 1439  python3 "join_dataset.py" 
+ 1440  free -m
+ 1441  python3 "join_dataset.py" 
+ 1442  free -m
+ 1443  free-smi
+ 1444  free -m -l
+ 1445  free -m -l 1
+ 1446  free -m 
+ 1447  python3 "join_dataset.py" 
+ 1448  free -m 
+ 1449  python3 "join_dataset.py" 
+ 1450  free -m 
+ 1451  python3 "val_train_creator.py" 
+ 1452  python3
+ 1453  python3 "val_train_creator.py" 
+ 1454  nohup python3 "model_training.py" &
+ 1455  kill 87697
+ 1456  ps -aef | grep python
+ 1457  python3 "join_dataset.py" 
+ 1458  kill 89198
+ 1459  python3 "join_dataset.py" 
+ 1460  nohup python3 "coupled_model.py" &
+ 1461  python3
+ 1462  python3 "val_train_creator.py" 
+ 1463  ps -aef | grep python
+ 1464  free -m
+ 1465  ps -aef | grep python
+ 1466  nohup python3 "model_training.py" &
+ 1467  ps -aef | grep python
+ 1468  python3 "single_img.py" 
+ 1469  python3 "val_train_creator.py" 
+ 1470  nohup python3 "model_training.py" &
+ 1471  kill 112813
+ 1472  python3 "val_train_creator.py" 
+ 1473  nohup python3 "model_training.py" &
+ 1474  kill 113444
+ 1475  python3 "val_train_creator.py" 
+ 1476  nohup python3 "model_training.py" &
+ 1477  kill114517
+ 1478  kill1114517
+ 1479  kil1114517
+ 1480  kill 14517
+ 1481  kill 114517
+ 1482  python3 "val_train_creator.py" 
+ 1483  nohup python3 "model_training.py" &
+ 1484  cd dl_catalano
+ 1485  cd deep_learning_computer_vision_segmenter/
+ 1486  cd Second_Stage_Segmenter/
+ 1487  python3 "single_img.py" 
+ 1488  python3
+ 1489  python3 "single_img.py" 
+ 1490  python3 "val_train_creator.py" 
+ 1491  nohup python3 "model_training.py" &
+ 1492  kill 10742
+ 1493  ps -aef | grep python
+ 1494  python3 "single_img.py" 
+ 1495  ps -aef | grep python
+ 1496  free -m
+ 1497  cd ./mnt
+ 1498  ./mnt
+ 1499  cd "./mnt"
+ 1500  /mnt
+ 1501  cd /mnt
+ 1502  python3
+ 1503  ls
+ 1504  cd users
+ 1505  cd catalano/
+ 1506  ls
+ 1507  python3 "val_train_creator.py" 
+ 1508  cd /IstatDL/
+ 1509  ls
+ 1510  cd Users
+ 1511  ls
+ 1512  cd catalano/
+ 1513  ls
+ 1514  cd deep_learning_computer_vision_segmenter/
+ 1515  cd  Second_Stage_Segmenter/
+ 1516  ls
+ 1517  python3 "val_train_creator.py" 
+ 1518  free -m
+ 1519  python3 "join_dataset.py" 
+ 1520  python3 "val_train_creator.py" 
+ 1521  python3 "join_dataset.py" 
+ 1522  nohup python3 "coupled_model.py" &
+ 1523  ps -aef | grep python
+ 1524  python3 "single_img.py" 
+ 1525  ps -aef | grep python
+ 1526  python3 "single_img.py" 
+ 1527  ps -aef | grep python
+ 1528  free -m
+ 1529  python3 "val_train_creator.py" 
+ 1530  bash nohup  "file.sh" & 
+ 1531  bash "file.sh"  
+ 1532  bash nohup  "file.sh" & 
+ 1533  nohup bash  "file.sh" & 
+ 1534  kill 12
+ 1535  kill 126
+ 1536  ps -aef | grep file.sh
+ 1537  kill 54018
+ 1538  nohup bash file.sh &
+ 1539  nvidia-smi -l 1
+ 1540  cd dl_catalano
+ 1541  cd deep_learning_
+ 1542  cd deep_learning_c
+ 1543  cd deep_learning_computer_vision_segmenter/
+ 1544  cd Second_Stage_Segmenter/
+ 1545  python3 "Prediction_function.py" 
+ 1546  nohup python3 "Prediction_function.py" &
+ 1547  python3 "Prediction_function.py" 
+ 1548  ps -aef | grep python
+ 1549  python3 "Prediction_function.py" 
+ 1550  ps -aef | grep python
+ 1551  python3 "Prediction_function.py" 
+ 1552  cd dl_catalano
+ 1553  cd deep_learning_computer_vision_segmenter/
+ 1554  cd Second_Stage_Segmenter/
+ 1555  python3 "Prediction_function.py" 
+ 1556  nvidia-smi -l 1
+ 1557  cd dl_catalano 
+ 1558  cd deep_learning_c 
+ 1559  cd deep_learning_computer_vision_segmenter/
+ 1560  cd Second_Stage_Segmenter/
+ 1561  python3 "Prediction_function.py" 
+ 1562  python3 "val_train_creator.py" 
+ 1563  python3 "join_dataset.py" 
+ 1564  nohup python3 "coupled_model.py" &
+ 1565  kill 63200
+ 1566  ps -aef | grep python
+ 1567  kill 63233
+ 1568  nohup python3 "coupled_model.py" &
+ 1569  ps -aef | grep python
+ 1570  free -m
+ 1571  python3 "Prediction_function.py" 
+ 1572  nohup python3 "coupled_model.py" &
+ 1573  ps -aef | grep python
+ 1574  kill 71838
+ 1575  python3 "join_dataset.py" 
+ 1576  nohup python3 "coupled_model.py" &
+ 1577  kill 73402
+ 1578  nohup python3 "coupled_model.py" &
+ 1579  ps -aef | grep python
+ 1580  free -m
+ 1581  nohup python3 "coupled_model.py" &
+ 1582  python3 "coupled_model.py" 
+ 1583  python3 "Prediction_function.py" 
+ 1584  nohup sh "file.sh" & 
+ 1585  nvidia-smi -l 1
+ 1586  cd dl_catalano
+ 1587  cd deep_learning_computer_vision_segmenter/
+ 1588  cd Second_Stage_Segmenter/
+ 1589  ps -aef | grep python
+ 1590  python3 "Prediction_function.py" 
+ 1591  ps -aef | grep python
+ 1592  python3 "Prediction_function.py" 
+ 1593  python3 "val_train_creator.py" 
+ 1594  python3 "join_dataset.py" 
+ 1595  nohup python3 "coupled_model.py" &
+ 1596  ps -aef | grep python
+ 1597  python3 "Prediction_function.py" &
+ 1598  ps -aef | grep python
+ 1599  kill 49477
+ 1600  cddl 
+ 1601  cd dl_catalano
+ 1602  cd deep_learning_computer_vision_segmenter/
+ 1603  cd Second_Stage_Segmenter/c
+ 1604  cd Second_Stage_Segmenter/
+ 1605  python3 "Prediction_function.py" &
+ 1606  cd waterways_unet/
+ 1607  python3 "dataset_creator_ww_sbagliato.py" 
+ 1608  nohup python3 "binary_class_river_lake.py" &
+ 1609  python3 "dataset_creator_ww_sbagliato.py" 
+ 1610  nohup python3 "binary_class_river_lake.py" &
+ 1611  python3 "dataset_creator_ww_sbagliato.py" 
+ 1612  nohup python3 "binary_class_river_lake.py" &
+ 1613  kill 63237
+ 1614  nohup python3 "model_training_ww.py" &
+ 1615  python3 "dataset_creator_ww_sbagliato.py" 
+ 1616  nohup python3 "model_training_ww.py" &
+ 1617  python3 "prediction_ww.py" 
+ 1618  python3 "predict_img_ww.py" 
+ 1619  python3 "dataset_creator_ww_sbagliato.py" 
+ 1620  nohup python3 "model_training_ww.py" &
+ 1621  ps -aef | grep python
+ 1622  kill 76510
+ 1623  ps -aef | grep python
+ 1624  python3 "dataset_creator_ww_sbagliato.py" 
+ 1625  nohup python3 "model_training_ww.py" &
+ 1626  ps -aef | grep python
+ 1627  kill 77035
+ 1628  nohup python3 "model_training_ww.py" &
+ 1629  ps -aef | grep python
+ 1630  kill 77103
+ 1631  nohup python3 "model_training_ww.py" &
+ 1632  python3 "predict_img_ww.py" 
+ 1633  nohup python3 "model_training_ww.py" &
+ 1634  ps -aef | grep python
+ 1635  kill 78787
+ 1636  nohup python3 "model_training_ww.py" &
+ 1637  python3 "prediction_ww.py" 
+ 1638  python3 "dataset_creator_ww_sbagliato.py" 
+ 1639  python3 "predict_img_ww.py" 
+ 1640  nohup python3 "model_training_ww.py" &
+ 1641  ps -aef | grep python
+ 1642  kill 81133
+ 1643  nohup python3 "model_training_ww.py" &
+ 1644  python3 "predict_img_ww.py" 
+ 1645  ps -aef | grep python
+ 1646  python3 "dataset_creator_ww_sbagliato.py" 
+ 1647  nohup bash "file.sh" &
+ 1648  ps -aef | grep python
+ 1649  ps -aef | grep file
+ 1650  ps -aef | grep python
+ 1651  ps -aef | grep file
+ 1652  kill 85375
+ 1653  ps -aef | grep python
+ 1654  ps -aef | grep file.sh
+ 1655  nohup bash "file.sh" &
+ 1656  nohup python3 "model_training_ww.py" &
+ 1657  nvidia-smi -l 1
+ 1658  cd dl_catalano
+ 1659  cd deep_learning_computer_vision_segmenter/
+ 1660  cd Second_Stage_Segmenter/
+ 1661  cd waterways_unet/
+ 1662  python3 "predict_img_ww.py" 
+ 1663  cd dl
+ 1664  cd dl_catalano
+ 1665  cd deep_learning_computer_vision_segmenter/
+ 1666  cd Second_Stage_Segmenter/
+ 1667  cd waterways_unet/
+ 1668  python3 "predict_img_ww.py" 
+ 1669  cd dl_catalano
+ 1670  cd deep_learning_computer_vision_segmenter/
+ 1671  cd Second_Stage_Segmenter/
+ 1672  cd w
+ 1673  cd waterways_unet/
+ 1674  python3 "predict_img_ww.py" 
+ 1675  nvidia-smi -l 1
+ 1676  free -m
+ 1677  ps -aef | grep python
+ 1678  cd dl_catalano
+ 1679  cd deep_learning_c
+ 1680  cd deep_learning_computer_vision_segmenter/
+ 1681  cd Second_Stage_Segmenter/
+ 1682  cd waterways_unet/
+ 1683  python3 "predict_img_ww.py" 
+ 1684  ps -aef | grep python
+ 1685  nvidia-smi -l 1
+ 1686  ps -aef | grep python
+ 1687  ps -aef | grep python
+ 1688  free -m
+ 1689  ps -aef | grep python
+ 1690  cd dl_catalano
+ 1691  cd deep_learning_computer_vision_segmenter/
+ 1692  cd Second_Stage_Segmenter/
+ 1693  python3 "val_train_creator.py" 
+ 1694  nohup python3 "model_training.py" &
+ 1695  python3 "val_train_creator.py" 
+ 1696  nohup python3 "model_training.py" &
+ 1697  ps -aef | grep python
+ 1698  python3 "model_training.py" 
+ 1699  python3 "Prediction_function.py" 
+ 1700  ps -aef | grep python
+ 1701  cd dl_catalano
+ 1702  cd deep_learning_c
+ 1703  cd deep_learning_computer_vision_segmenter/
+ 1704  cd Second_Stage_Segmenter/
+ 1705  python3 "Prediction_function.py" 
+ 1706  nvidia-smi -l 1
+ 1707  cd dl_catalano
+ 1708  cd deep_learning_c
+ 1709  cd deep_learning_computer_vision_segmenter/
+ 1710  cd Second_Stage_Segmenter/
+ 1711  python3 "val_train_creator.py" 
+ 1712  cd Second_Stage_Segmenter/
+ 1713  python3 "val_train_creator.py" 
+ 1714  ps -aef | grep python
+ 1715  nvidia-smi -l 1
+ 1716  ps -aef | grep python
+ 1717  nvidia-smi -l 1
+ 1718  ps -aef | grep python
+ 1719  nvidia-smi -l 1
+ 1720  cd dl
+ 1721  cd dl_catalano
+ 1722  cd deep_learning_computer_vision_segmenter/
+ 1723  cd SE
+ 1724  cd Second_Stage_Segmenter/
+ 1725  cd waterways_unet/
+ 1726  python3 "predict_img_ww.py" 
+ 1727  cd ..
+ 1728  python3 "join_dataset.py" &
+ 1729  python3 "predict_img_ww.py" 
+ 1730  cd waterways_unet/
+ 1731  python3 "predict_img_ww.py" 
+ 1732  nohup python3 "coupled_model.py" &
+ 1733  ps -aef | grep python
+ 1734  cd ..
+ 1735  nohup python3 "coupled_model.py" &
+ 1736  nvidia-smi -l 1
+ 1737  cd dl_catalano
+ 1738  cd deep_learning_computer_vision_segmenter/
+ 1739  cd Second_Stage_Segmenter/
+ 1740  cd w
+ 1741  cd waterways_unet/
+ 1742  python3 "predict_img_ww.py" &
+ 1743  cd dl_catalano
+ 1744  cd deep_learning_computer_vision_segmenter/
+ 1745  cd Second_Stage_Segmenter/
+ 1746  python3 "Prediction_function.py" &
+ 1747  python3 "Prediction_function.py" 
+ 1748  ps -aef | grep python
+ 1749  nvidia-smi -l 1
+ 1750  cd dl_catalano
+ 1751  cd deep_learning_computer_vision_segmenter/
+ 1752  cd Second_Stage_Segmenter/
+ 1753  python3 "predict_img_ww.py" 
+ 1754  cd ..
+ 1755  ps -aef | grep python
+ 1756  python3 "val_train_creator.py" &
+ 1757  nohup python3 "model_training.py" &
+ 1758  ps -aef | grep python
+ 1759  nohup python3 "model_training.py" &
+ 1760  free -m
+ 1761  nohup python3 "model_training.py" &
+ 1762  free -m
+ 1763  ps -aef | grep python
+ 1764  ps -aef 
+ 1765  free -m
+ 1766  ps -aef 
+ 1767  ps -aef | grep python
+ 1768  kill 43690
+ 1769  nohup python3 "model_training.py" &
+ 1770  ps -aef | grep python
+ 1771  nohup python3 "model_training.py" &
+ 1772  ps -aef | grep python
+ 1773  nohup python3 "model_training.py" &
+ 1774  nvidia-smi -l 1
+ 1775  cd dl_catalano
+ 1776  cd deep_learning_computer_vision_segmenter/
+ 1777  c Second_Stage_Segmenter/
+ 1778  cd Second_Stage_Segmenter/
+ 1779  nohup python3 "model_training.py" &
+ 1780  ps -aef | grep python
+ 1781  nvidia-smi -l 1
+ 1782  cd dl
+ 1783  cd dl_catalano
+ 1784  cd deep_learning_computer_vision_segmenter/
+ 1785  cd Second_Stage_Segmenter/
+ 1786  nohup python3 "model_training.py" &
+ 1787  ps -aef | grep python
+ 1788  nohup python3 "model_training.py" &
+ 1789  wait; python3 "Prediction_function.py" &
+ 1790  ps -aef | grep python
+ 1791  nvidia-smi -l 1
+ 1792  cd dl_catalano
+ 1793  cd deep_learning_computer_vision_segmenter/
+ 1794  cd Second_Stage_Segmenter/
+ 1795  ps -aef | grep python
+ 1796  ps
+ 1797  ps -aef 
+ 1798  nohup python3 "model_training.py" &
+ 1799  wait;nohup  python3 "Prediction_function.py" &
+ 1800  cd dl
+ 1801  cd dl_catalano
+ 1802  cd deep_learning_
+ 1803  cd deep_learning_c
+ 1804  cd deep_learning_computer_vision_segmenter/
+ 1805  cd Second_Stage_Segmenter/
+ 1806  python3 "Prediction_function.py" 
+ 1807  ps -aef | grep python
+ 1808  python3 "Prediction_function.py" 
+ 1809  nvidia-smi -l 1
+ 1810  cd dl_catalano
+ 1811  cd deep_learning_computer_vision_segmenter/
+ 1812  cd Second_Stage_Segmenter/
+ 1813  python3 "val_train_creator.py" 
+ 1814  nohup python3 "model_training.py" &
+ 1815  python3 "Prediction_function.py" 
+ 1816  python3 "val_train_creator.py" 
+ 1817  nvidia-smi -l 1
+ 1818  cd dl
+ 1819  cd dl_catalano
+ 1820  cd deep_learning_computer_vision_segmenter/
+ 1821  cd Second_Stage_Segmenter/
+ 1822  python3 "total_mask_predict.py" 
+ 1823  cd Second_Stage_Segmenter/
+ 1824  python3 "total_mask_predict.py" 
+ 1825  nvidia-smi -l 1
+ 1826  cd dl_catalano
+ 1827  cd deep_learning_computer_vision_segmenter/
+ 1828  cd Second_Stage_Segmenter/
+ 1829  wait;python3 "total_mask_predict.py" 
+ 1830  cd Second_Stage_Segmenter/
+ 1831  python3 "total_mask_predict.py" 
+ 1832  python3 "total_mask_predict.py" &
+ 1833  wait;python3 "total_mask_predict.py" &
+ 1834  ait;python3 "total_mask_predict.py" &
+ 1835  python3 "total_mask_predict.py" &
+ 1836  nvidia-smi -l 1
+ 1837  cd dl
+ 1838  cd dl_catalano
+ 1839  cd deep_learning_c
+ 1840  cd deep_learning_computer_vision_segmenter/
+ 1841  cd Second_Stage_Segmenter/
+ 1842  cd waterways_unet/
+ 1843  python3 "predict_img_ww.py" 
+ 1844  cd dl_catalano
+ 1845  cd deep_learning_computer_vision_segmenter/
+ 1846  cd Second_Stage_Segmenter/
+ 1847  cd W
+ 1848  cd waterways_unet/
+ 1849  python3 "predict_img_ww.py" 
+ 1850  nvidia-smi -l 1
+ 1851  cd dl_catalano
+ 1852  c deep_learning_computer_vision_segmenter/
+ 1853  cd deep_learning_computer_vision_segmenter/
+ 1854  cd Second_Stage_Segmenter/
+ 1855  python3 "total_mask_predict.py" &
+ 1856  python3 "total_mask_predict.py" 
+ 1857  python3 "total_mask_predict.py" &
+ 1858  python3 "total_mask_predict.py" 
+ 1859  ps -aef | grep python
+ 1860  python3 "total_mask_predict.py" 
+ 1861  ps -aef | grep python
+ 1862  kill 69867
+ 1863  nvidia-smi -l 1
+ 1864  cd dl_catalano
+ 1865  cd deep_learning_c
+ 1866  cd deep_learning_computer_vision_segmenter/
+ 1867  cd Second_Stage_Segmenter/
+ 1868  python3 "total_mask_predict.py" 
+ 1869  cd waterways_unet/
+ 1870  python3 "predict_img_ww.py" 
+ 1871  cd ..
+ 1872  python3 "total_mask_predict.py" 
+ 1873  cd waterways_unet/
+ 1874  python3 "predict_img_ww.py" 
+ 1875  python3 dataset_creator_ww_sbagliato.py 
+ 1876  nohup python3 "model_training_ww.py" &
+ 1877  python3 dataset_creator_ww_sbagliato.py 
+ 1878  python3 "predict_img_ww.py" 
+ 1879  python3 "dataset_creator_ww_sbagliato.py" 
+ 1880  nohup python3 "model_training_ww.py" &
+ 1881  python3 "predict_img_ww.py" 
+ 1882  nvidia-smi -l 1
+ 1883  python3 "dataset_creator_ww.py" 
+ 1884  cd dl_catalano
+ 1885  cd deep_learning_computer_vision_segmenter/
+ 1886  cd Second_Stage_Segmenter/
+ 1887  cd waterways_unet/
+ 1888  python3 "dataset_creator_ww.py" 
+ 1889  nohup python3 "model_training_ww.py" &
+ 1890  kill 12167
+ 1891  ps
+ 1892  ps -aef
+ 1893  ps -aef | grep pyhon
+ 1894  ps -aef | grep python
+ 1895  nohup python3 "model_training_ww.py" &
+ 1896  python3 "dataset_creator_ww.py" 
+ 1897  nohup python3 "model_training_ww.py" &
+ 1898  python3 "predict_img_ww.py" 
+ 1899  python3 "dataset_creator_ww.py" 
+ 1900  nohup python3 "model_training_ww.py" &
+ 1901  ps aef | grep python
+ 1902  ps - aef | grep python
+ 1903  ps -aef | grep python
+ 1904  nohup python3 "model_training_ww.py" &
+ 1905  python3 "predict_img_ww.py" 
+ 1906  python3 "dataset_creator_ww.py" 
+ 1907  nohup python3 "model_training_ww.py" &
+ 1908  ps -aef | grep python
+ 1909  python3 "predict_img_ww.py" 
+ 1910  python3 "dataset_creator_ww.py" 
+ 1911  python3 "predict_img_ww.py" 
+ 1912  ps -aef | grep python
+ 1913  python3 "predict_img_ww.py" 
+ 1914  ps -aef | grep python
+ 1915  python3 "predict_img_ww.py" 
+ 1916  python3 "dataset_creator_ww.py" 
+ 1917  python3 "predict_img_ww.py" 
+ 1918  python3 "dataset_creator_ww_river_lake.py" 
+ 1919  python3 "predict_img_ww.py" 
+ 1920  python3 "dataset_creator_ww.py" 
+ 1921  nohup python3 "model_training_ww.py" &
+ 1922  python3 "predict_img_ww.py" 
+ 1923  ps -aef |grep python
+ 1924  python3 "predict_img_ww.py" 
+ 1925  python3 "dataset_creator_ww.py" 
+ 1926  nohup python3 "model_training_ww.py" &
+ 1927  cd dl_catalano
+ 1928  cd deep_learning_computer_vision_segmenter/
+ 1929  cd Second_Stage_Segmenter/
+ 1930  cd waterways_unet/
+ 1931  python3 "predict_img_ww.py" 
+ 1932  python3 "dataset_creator_ww.py" 
+ 1933  nohup python3 "model_training_ww.py" &
+ 1934  kill 67760
+ 1935  python3 "dataset_creator_ww.py" 
+ 1936  nohup python3 "model_training_ww.py" &
+ 1937  python3 "predict_img_ww.py" 
+ 1938  python3 "dataset_creator_ww.py" 
+ 1939  nohup python3 "model_training_ww.py" &
+ 1940  python3 "dataset_creator_ww.py" 
+ 1941  nohup python3 "model_training_ww.py" &
+ 1942  python3 "predict_img_ww.py" 
+ 1943  python3 "dataset_creator_ww.py" 
+ 1944  python3 "predict_img_ww.py" 
+ 1945  python3 "dataset_creator_ww.py" 
+ 1946  nohup python3 "model_training_ww.py" &
+ 1947  kill 77365
+ 1948  python3 "predict_img_ww.py" 
+ 1949  python3 dataset_creator_ww_river_lake.py"
+ 1950  python3 "dataset_creator_ww_river_lake.py"
+ 1951  nohup python3 "model_training_ww.py" &
+ 1952  python3 "predict_img_ww.py" 
+ 1953  python3 "dataset_creator_ww_river_lake.py"
+ 1954  nohup python3 "model_training_ww.py" &
+ 1955  python3 "predict_img_ww.py" 
+ 1956  nvidia-smi -l 1
+ 1957  cd dl_catalano
+ 1958  cd deep_learning_computer_vision_segmenter/
+ 1959  cd Sec
+ 1960  cd Second_Stage_Segmenter/
+ 1961  python3 "dataset_creator_ww.py" 
+ 1962  cd waterways_unet/
+ 1963  python3 "dataset_creator_ww.py" 
+ 1964  nohup python3 "model_training_ww.py" &
+ 1965  python3 "predict_img_ww.py" 
+ 1966  python3 "dataset_creator_ww.py" 
+ 1967  python3 "predict_img_ww.py" 
+ 1968  python3 "dataset_creator_ww.py" 
+ 1969  nohup python3 "model_training_ww.py" &
+ 1970  python3 "dataset_creator_ww.py" 
+ 1971  nohup python3 "model_training_ww.py" &
+ 1972  kill 129931
+ 1973  nohup python3 "model_training_ww.py" &
+ 1974  ls
+ 1975  cd dl_catalano
+ 1976  cd deep_learning_computer_vision_segmenter/
+ 1977  cd Second_Stage_Segmenter/
+ 1978  ls
+ 1979  cd waterways_unet/
+ 1980  python3 "predict_img_ww.py" 
+ 1981  cd dl_catalano
+ 1982  cd deep_learning_computer_vision_segmenter/
+ 1983  cd Second_Stage_Segmenter/
+ 1984  cd waterways_unet/
+ 1985  python3 "predict_img_ww.py" 
+ 1986  ls
+ 1987  cd dl_catalano
+ 1988  cd deep_learning_computer_vision_segmenter/
+ 1989  dl
+ 1990  ls
+ 1991  cd Second_Stage_Segmenter/
+ 1992  ls
+ 1993  cd waterways_unet/
+ 1994  ls
+ 1995  python3 "dataset_creator_ww.py" 
+ 1996  history > /mnt/history.unet
+ 1997  history > /mnt/Datasets/history.unet
+ 1998  history > /mnt/Datasets/UNET/history.unet
+ 1999  history > /IstatDL/Users/public/history.log

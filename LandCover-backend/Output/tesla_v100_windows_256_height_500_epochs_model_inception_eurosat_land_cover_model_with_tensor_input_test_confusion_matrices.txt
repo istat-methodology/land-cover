@@ -1,0 +1,40 @@
+Tesla V100 Windows 256 Height 500 Epochs Model Inception Eurosat Land Cover Model With Tensor Input
+
+{'AnnualCrop': 0, 'Forest': 1, 'HerbaceousVegetation': 2, 'Highway': 3, 'Industrial': 4, 'Pasture': 5, 'PermanentCrop': 6, 'Residential': 7, 'River': 8, 'SeaLake': 9, 'other': 10}
+
+ Full Confusion Matrix 
+
+[[ 734    0    0    0    0    5    6    0    3    2    0  750]
+ [   0  745    3    0    0    1    0    0    1    0    0  750]
+ [   1    1  732    0    0    6   10    0    0    0    0  750]
+ [   2    1    0  619    0    0    0    0    3    0    0  625]
+ [   0    0    0    0  623    0    0    2    0    0    0  625]
+ [   3    1    6    0    0  489    0    0    1    0    0  500]
+ [  12    0   11    0    1    2  599    0    0    0    0  625]
+ [   0    0    0    0    2    0    1  747    0    0    0  750]
+ [   0    0    0    4    1    1    0    0  618    1    0  625]
+ [   0    0    0    0    0    0    0    0    0  750    0  750]
+ [   0    0    0    0    0    0    0    0    0    0  750  750]
+ [ 752  748  752  623  627  504  616  749  626  753  750 7500]]
+
+Accuracy of the Full Confusion Matrix: 0.9874666666666667
+
+
+
+ Confusion Matrix without the class other 
+
+[[ 734    0    0    0    0    5    6    0    3    2  750]
+ [   0  745    3    0    0    1    0    0    1    0  750]
+ [   1    1  732    0    0    6   10    0    0    0  750]
+ [   2    1    0  619    0    0    0    0    3    0  625]
+ [   0    0    0    0  623    0    0    2    0    0  625]
+ [   3    1    6    0    0  489    0    0    1    0  500]
+ [  12    0   11    0    1    2  599    0    0    0  625]
+ [   0    0    0    0    2    0    1  747    0    0  750]
+ [   0    0    0    4    1    1    0    0  618    1  625]
+ [   0    0    0    0    0    0    0    0    0  750  750]
+ [ 752  748  752  623  627  504  616  749  626  753 6750]]
+
+Accuracy of the Confusion Matrix without the class other: 0.9874666666666667
+
+

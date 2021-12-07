@@ -1,0 +1,1000 @@
+ 1065  ls
+ 1066  cd SATELLITE/
+ 1067  find ./* -iname "*PI*csv"
+ 1068  find ./* -iname "*LE*csv"
+ 1069  find ./* -iname "*tesla*csv"
+ 1070  find ./* -iname "*tesla*csv"  | grep 9
+ 1071  find ./* -iname "PI"  | grep 9
+ 1072  find ./* -iname "*PI*"  | grep 9
+ 1073  find ./* -iname "*PI*"  
+ 1074  top
+ 1075  ls
+ 1076  cd landcover
+ 1077  ls
+ 1078  cd Code/
+ 1079  ls
+ 1080  ls | gre 9
+ 1081  ls | grep 9
+ 1082  ls | grep _9_
+ 1083  cd ..
+ 1084  ls
+ 1085  cd Conf/
+ 1086  ls -ltr
+ 1087  vi landcover.ini
+ 1088  cd ..
+ 1089  history | grep python
+ 1090  cd Cod
+ 1091  cd Code/
+ 1092  conda activate develop
+ 1093  python landcover_run.py
+ 1094  vi ../Conf/landcover.ini
+ 1095  python landcover_run.py
+ 1096  nohup python landcover_run.py &
+ 1097  cat nohup
+ 1098  cat nohup.out 
+ 1099  top
+ 1100  nvidia-smi -l 1
+ 1101  cat nohup.out 
+ 1102  cd dl_home
+ 1103  ls
+ 1104  cd PRJ_IMPUTATION/
+ 1105  ls
+ 1106  cd Work
+ 1107  dir
+ 1108  cd IMPUTATION_ALL/
+ 1109  ls
+ 1110  ls -ltr
+ 1111  cat Imputation3.py
+ 1112  vi Imputation3.py
+ 1113  ls
+ 1114  cd /IstatDL/Users/public/
+ 1115  ls
+ 1116  cat history.log 
+ 1117  su Istatadmin
+ 1118  ls
+ 1119  cp -r  UNET_BIKO/ /IstatDL/Users/defausti/.
+ 1120  cd
+ 1121  cd dl_home
+ 1122  ls
+ 1123  cd UNET_BIKO/
+ 1124  ls -ltr
+ 1125  cp /IstatDL/Users/public/history.log .
+ 1126  ls
+ 1127  vi history.log 
+ 1128  #python model_training_ww.py
+ 1129  conda activate develop
+ 1130  python model_training_ww.py
+ 1131  ls -ltr
+ 1132  vi model_training_ww.py
+ 1133  ls -ltr /mnt/users/catalano/waterways/
+ 1134  vi model_training_ww.py
+ 1135  ls /mnt/users/defausti/
+ 1136  python model_training_ww.py
+ 1137  ls
+ 1138  vi dataset_creator_ww_river_lake.py 
+ 1139  mkdir /mnt/users/defausti/waterways/
+ 1140  python dataset_creator_ww_river_lake.py 
+ 1141  ls /mnt/users/defausti/waterways/
+ 1142  python model_training_ww.py
+ 1143  vi dataset_creator_ww_river_lake.py 
+ 1144  vi model_training_ww.py
+ 1145  vi dataset_creator_ww_river_lake.py 
+ 1146  vi model_training_ww.py
+ 1147  python model_training_ww.py 
+ 1148  vi dataset_creator_ww_river_lake.py 
+ 1149  vi model_training_ww.py
+ 1150  python model_training_ww.py 
+ 1151  vi model_training_ww.py
+ 1152  python model_training_ww.py 
+ 1153  mkdir ./history_training/
+ 1154  python model_training_ww.py 
+ 1155  vi model_training_ww.py 
+ 1156  python model_training_ww.py 
+ 1157  mkdir ./weights/
+ 1158  python model_training_ww.py 
+ 1159  ls -ltr
+ 1160  vi history.log 
+ 1161  vi "prediction_ww.py"
+ 1162  mkdir ./output_pred/
+ 1163  vi "prediction_ww.py"
+ 1164  mkdir ./output_pred/plot_prediction/
+ 1165  ls -ltr
+ 1166  vi "prediction_ww.py"
+ 1167  python model_training_ww.py 
+ 1168  python prediction_ww.py
+ 1169  ls ltr
+ 1170  ls -ltr
+ 1171  ls output_pred/
+ 1172  ls output_pred/plot_prediction/
+ 1173  ls -ltr
+ 1174  vi predict_img_ww.py
+ 1175  python predict_img_ww.py 
+ 1176  ls ./weights/model_
+ 1177  ls ./weights/
+ 1178  vi predict_img_ww.py
+ 1179  python predict_img_ww.py 
+ 1180  grep   python  history.log 
+ 1181  grep   python  history.log  | prey \.py
+ 1182  grep   python  history.log  | grep \.py
+ 1183  ls -ltr
+ 1184  vi predict_img_ww.py
+ 1185  python  predict_img_ww.py
+ 1186  vi predict_img_ww.py
+ 1187  vi predict_ww.py
+ 1188  vi prediction_ww.py 
+ 1189  vi predict_img_ww.py
+ 1190  ls -ltr
+ 1191  vi python dataset_creator_ww_river_lake.py
+ 1192  python dataset_creator_ww_river_lake.py
+ 1193  ls -lr
+ 1194  ls /mnt/users/defausti/waterways/
+ 1195  python model_training_ww.py
+ 1196  ls -ltr
+ 1197  vi load_image.py 
+ 1198  python prediction_ww.py
+ 1199  conda activate develop
+ 1200  cd dl_home
+ 1201  dir
+ 1202  cd PRJ_IMPUTATION/
+ 1203  ls
+ 1204  cd Work
+ 1205  ls
+ 1206  cd IMPUTATION
+ 1207  ls -ltr
+ 1208  ls *py
+ 1209  cd dl_home
+ 1210  cd PRJ_IMPUTATION/
+ 1211  ls
+ 1212  cd Work
+ 1213  ls
+ 1214  cd IMPUTATION
+ 1215  ls
+ 1216  ls -ltr *py
+ 1217  vi Imputation3.py
+ 1218  ls "BASE_2018_ML_LOMB_DATA_TABLE_FOLD0_PANDOLFINI.dsv"
+ 1219  find ../../* -iname "*BASE_2018_ML_LOMB_DATA_TABLE_FOLD0_PANDOLFINI.dsv*"
+ 1220  wc -l ../../WorkDATA/IMPUTATION/DatiPesiCampionari/BASE_2018_ML_LOMB_DATA_TABLE_FOLD0_PANDOLFINI.dsv
+ 1221  wc -l ../../WorkDATA/IMPUTATION/DatiPesiCampionari/BASE_2018_ML_LOMB_DATA_TABLE_FOLD.dsv 
+ 1222  python
+ 1223  activate food2
+ 1224  activate develop
+ 1225  conda activate develop
+ 1226  python
+ 1227  vi Imputation3.py 
+ 1228  history | grep Imputation3
+ 1229  python Imputation3.py 0 TRAINING N
+ 1230  vi Imputation3.py 
+ 1231  history | grep Imputation3 
+ 1232  conda activate develop
+ 1233  cd dl_home
+ 1234  cd PRJ_IMPUTATION/
+ 1235  ls
+ 1236  cd Work 
+ 1237  dir
+ 1238  cd IMPUTATION
+ 1239  dir
+ 1240  history | grep Imputation3
+ 1241  ls -ltr
+ 1242  df -h outfile0N.out
+ 1243  du -h outfile0N.out
+ 1244  python Imputation3.py 0 IMPUTATION N
+ 1245  ls -ltr
+ 1246  vi  outfile0N.out
+ 1247  python
+ 1248  conda activate develop
+ 1249  cd .
+ 1250  dir
+ 1251  cd
+ 1252  cd dl_home
+ 1253  cd PRJ_IMPUTATION/
+ 1254  cd Work
+ 1255  dir
+ 1256  cd IMPUTATION
+ 1257  cd IMPUTATION1conda
+ 1258  conda activate develop
+ 1259  cd dl_home
+ 1260  cd PRJ_IMPUTATION/
+ 1261  cd Work
+ 1262  cd dl_home/PRJ_IMPUTATION//Work/IMPUTATION/
+ 1263  ls
+ 1264  ls -ltr
+ 1265  activate develop
+ 1266  conda activate develop
+ 1267  cd dl_home
+ 1268  dir
+ 1269  cd PRJ_IMPUTATION/
+ 1270  dir
+ 1271  cd Work
+ 1272  dir
+ 1273  cd IMPUTATION
+ 1274  dir
+ 1275  ls -ltr
+ 1276  rm weights-improvement-0-W_N_*hdf5
+ 1277  ls -ltr
+ 1278  rm outfile0N.out 
+ 1279  history
+ 1280  ls -ltr
+ 1281  vi Imputation3.py 
+ 1282  ls -ltr
+ 1283  history
+ 1284  ls -ltr
+ 1285  vi outfile0Y.out
+ 1286  python
+ 1287  cat Imputation3.py 
+ 1288  cat Imputation3.py  | grep csv
+ 1289  cat Imputation3.py  | grep ndol
+ 1290  cat Imputation3.py  | grep FO
+ 1291  cat Imputation3.py  | grep DATA_DIR
+ 1292  python
+ 1293  conda activate develop
+ 1294  python
+ 1295  cd ..
+ 1296  cd defausti/
+ 1297  dl_home
+ 1298  cd dl_home
+ 1299  ls
+ 1300  cd PRJ_IMPUTATION/
+ 1301  ls
+ 1302  cd Work
+ 1303  ls
+ 1304  cd IMPUTATION_ALL/
+ 1305  ls
+ 1306  ls -ltr
+ 1307  vi Imputation3.py
+ 1308  cd ..
+ 1309  cd IMPUTATION
+ 1310  ls -ltr
+ 1311  vi Imputation3.py 
+ 1312  ls /home/defausti/dl_home/PRJ_IMPUTATION/WorkDATA/BASE_2018_ML_LOMB_DATA_TABLE_FOLD0_PANDOLFINI_0.dsv
+ 1313  ls /home/defausti/dl_home/PRJ_IMPUTATION/WorkDATA/IMPUTATION/DatiPesiCampionari/BASE_2018_ML_LOMB_DATA_TABLE_FOLD0_PANDOLFINI_0.dsv 
+ 1314  python
+ 1315  exit
+ 1316  cd dl_home
+ 1317  cd UNET_BIKO/
+ 1318  ls
+ 1319  ls -ltr
+ 1320  vi prediction_hw.py
+ 1321  ls /mnt/users/defausti/highways/x_val_label.npy
+ 1322  ls /mnt/users/defausti/highways/
+ 1323  vi prediction_hw.py
+ 1324  ls /mnt/users/defausti/highways/x_val_label.npy
+ 1325  diff lake_prediction.py prediction_ww.py 
+ 1326  vdiff lake_prediction.py prediction_ww.py 
+ 1327  diff lake_prediction.py prediction_ww.py 
+ 1328  vi highways_prediction.py
+ 1329  python highways_prediction.py 
+ 1330  conda activate develop 
+ 1331  python highways_prediction.py 
+ 1332  ll /mnt/users/defausti/highways/
+ 1333  vi highways_prediction.py 
+ 1334  ls weights/
+ 1335  rm model_unet_2_32_8_2_percentile_min_max_River
+ 1336  rm weights/model_unet_2_32_8_2_percentile_min_max_River
+ 1337  vi highways_prediction.py 
+ 1338  ls weights/
+ 1339  vi highways_prediction.py 
+ 1340  ls /mnt/users/defausti/highways/
+ 1341  vi dataset_creator_hw.py 
+ 1342  python dataset_creator_hw.py 
+ 1343  history | grep python
+ 1344  python model_training_hw.py 
+ 1345  python highways_prediction.py 
+ 1346  vi model_training_hw.py 
+ 1347  vi highways_prediction.py 
+ 1348  pytohn  highways_prediction.py 
+ 1349  python highways_prediction.py
+ 1350  ll output_pred/
+ 1351  date
+ 1352  ll output_pred/plot_prediction/
+ 1353  python highways_prediction.py
+ 1354  vi prediction_hw.py 
+ 1355  python prediction_hw.py 
+ 1356  ll /mnt/users/defausti/highways/x
+ 1357  ll /mnt/users/defausti/highways/x_*
+ 1358  vi prediction_hw.py 
+ 1359  python prediction_hw.py 
+ 1360  ll ./weights/
+ 1361  vi prediction_hw.py 
+ 1362  ls weights/
+ 1363  vi prediction_hw.py 
+ 1364  python prediction_hw.py 
+ 1365  vi prediction_hw.py 
+ 1366  ll /mnt/users/defausti/highways/
+ 1367  vi prediction_hw.py 
+ 1368  python prediction_hw.py 
+ 1369  vi prediction_hw.py 
+ 1370  python prediction_hw.py 
+ 1371  vi prediction_hw.py 
+ 1372  python prediction_hw.py 
+ 1373  vi prediction_hw.py 
+ 1374  python prediction_hw.py 
+ 1375  vi prediction_hw.py 
+ 1376  python prediction_hw.py 
+ 1377  ls -ltr
+ 1378  cd output_pred/
+ 1379  ls
+ 1380  cd ..
+ 1381  ls -ltr 
+ 1382  ls -ltr output_pred/
+ 1383  ls -ltr output_pred/plot_prediction/
+ 1384  vi prediction_hw.py 
+ 1385  python prediction_hw.py 
+ 1386  vi prediction_hw.py 
+ 1387  python prediction_hw.py 
+ 1388  vi prediction_hw.py 
+ 1389  python prediction_hw.py 
+ 1390  ls -ltr
+ 1391  vi predict_img_hw.py 
+ 1392  python predict_img_hw.py 
+ 1393  vi predict_img_hw.py 
+ 1394  python predict_img_hw.py 
+ 1395  conda activate develop
+ 1396  cd dl_home
+ 1397  ls
+ 1398  cd UNET_BIKO/
+ 1399  ls -ltr
+ 1400  vi dataset_creator_ww.py
+ 1401  history | grep py
+ 1402  history | grep python
+ 1403  python dataset_creator_ww.py
+ 1404  vi dataset_creator_ww.py
+ 1405  python dataset_creator_ww.py
+ 1406  vi dataset_creator_ww.py
+ 1407  grep max_bands_river_norm ./*
+ 1408  vi utils_ww.py 
+ 1409  grep max_bands_river_norm ./*
+ 1410  python dataset_creator_ww.py
+ 1411  history | grep python
+ 1412  python model_training_ww.py
+ 1413  vi utils_ww.py 
+ 1414  ls /mnt/users/defausti/waterways/
+ 1415  vi dataset_creator_ww.py 
+ 1416  ls /mnt/Datasets/UNET/
+ 1417  ls /mnt/Datasets/UNET/TEST/
+ 1418  ls /mnt/Datasets/UNET/TEST/Lake*
+ 1419  vi dataset_creator_ww.py 
+ 1420  cp dataset_creator_ww.py dataset_creator_hw.py
+ 1421  vi dataset_creator_hw.py
+ 1422  mkdir /mnt/users/defausti/highways/
+ 1423  ls
+ 1424  ls  /mnt/users/defausti/highways/
+ 1425  ls  /mnt/users/defausti/output_Highway/
+ 1426  mv  /mnt/users/defausti/output_Highway/TEST /mnt/Datasets/UNET/TEST/Highways
+ 1427  ls /mnt/Datasets/UNET/TEST/Highways
+ 1428  ls /mnt/Datasets/UNET/TEST/River
+ 1429  ls /mnt/Datasets/UNET/TEST/Highways
+ 1430  mv  /mnt/users/defausti/output_Highway/TRAIN /mnt/Datasets/UNET/TRAIN/Highways
+ 1431  ls
+ 1432  vi dataset_creator_hw.py
+ 1433  ls /mnt/users/defausti/highways/
+ 1434  vi dataset_creator_hw.py
+ 1435  python dataset_creator_hw.py 
+ 1436  ls /mnt/Datasets/UNET/TRAIN/Highways/
+ 1437  ls /mnt/users/defausti/highways/
+ 1438  vi dataset_creator_hw.py
+ 1439  vi utils_ww.py 
+ 1440  python dataset_creator_hw.py 
+ 1441  ls
+ 1442  ls -ltr
+ 1443  vi model_training_ww.py
+ 1444  cp model_training_ww.py model_training_hw.py
+ 1445  vi model_training_hw.py 
+ 1446  ls /mnt/users/defausti/highways/
+ 1447  vi utils_ww.py 
+ 1448  ls /mnt/users/defausti/highways/
+ 1449  vi utils_ww.py 
+ 1450  python dataset_creator_hw.py 
+ 1451  ls /mnt/users/defausti/highways/
+ 1452  ls -ltr  /mnt/users/defausti/highways/
+ 1453  date
+ 1454  vi model_training_hw.py 
+ 1455  ls -ltr /mnt/users/defausti/highways/
+ 1456  vi model_training_hw.py 
+ 1457  python model_training_hw.py 
+ 1458  vi model_training_hw.py 
+ 1459  python model_training_hw.py 
+ 1460  vi model_training_hw.py 
+ 1461  python model_training_hw.py 
+ 1462  vi model_training_hw.py 
+ 1463  python model_training_hw.py 
+ 1464  ls -ltr
+ 1465  cp prediction_ww.py prediction_hw.py
+ 1466  vi prediction_hw.py
+ 1467  ll
+ 1468  vi lake_prediction.py 
+ 1469  vi prediction_hw.py
+ 1470  python prediction_hw.py
+ 1471  vi model_training_hw.py 
+ 1472  python model_training_hw.py 
+ 1473  python prediction_hw.py
+ 1474  ls -ltr
+ 1475  cp predict_img_ww.py predict_img_hw.py
+ 1476  vi predict_img_hw.py 
+ 1477  python  predict_img_hw.py 
+ 1478  su Istatadmin
+ 1479  ll
+ 1480  vi  predict_img_hw.py 
+ 1481  python  predict_img_hw.py 
+ 1482  vi  predict_img_hw.py 
+ 1483  ls -lktr
+ 1484  ls /mnt/users/defausti/highways/
+ 1485  ls -ltr
+ 1486  vi predict_img_hw.py
+ 1487  python  predict_img_hw.py 
+ 1488  vi predict_img_hw.py
+ 1489  vi dataset_creator_hw.py 
+ 1490  python  predict_img_hw.py 
+ 1491  ls -ltr
+ 1492  ll output_pred
+ 1493  ll output_pred/plot_prediction/
+ 1494  date
+ 1495  vi predict_img_hw.py
+ 1496  ls /mnt/users/defausti/highways/*
+ 1497  ls -ltr  /mnt/users/defausti/highways/*
+ 1498  vi predict_img_hw.py
+ 1499  python  predict_img_hw.py 
+ 1500  vi predict_img_hw.py
+ 1501  python  predict_img_hw.py 
+ 1502  vi predict_img_hw.py
+ 1503  python  predict_img_hw.py
+ 1504  vi predict_img_hw.py
+ 1505  python  predict_img_hw.py
+ 1506  vi predict_img_hw.py
+ 1507  python  predict_img_hw.py
+ 1508  vi predict_img_hw.py
+ 1509  grep util *hw*py
+ 1510  ll | grep hw
+ 1511  ll
+ 1512  vi predict_img_hw.py
+ 1513  python  predict_img_hw.py
+ 1514  vi predict_img_hw.py
+ 1515  python  predict_img_hw.py
+ 1516  vi predict_img_hw.py
+ 1517  python  predict_img_hw.py
+ 1518  vi predict_img_hw.py
+ 1519  python  predict_img_hw.py
+ 1520  vi predict_img_hw.py
+ 1521  python  predict_img_hw.py
+ 1522  vi predict_img_hw.py
+ 1523  python  predict_img_hw.py
+ 1524  conda activate develop
+ 1525  cd dl_homel
+ 1526  cd 
+ 1527  cd dl_home/
+ 1528  ls
+ 1529  cd UNET_BIKO/
+ 1530  ls
+ 1531  ls -ltr
+ 1532  vi model_training_ww.py 
+ 1533  vi model_training_hw.py 
+ 1534  nohup python  model_training_hw.py &
+ 1535  cat nohup.out 
+ 1536  ls -ltr
+ 1537  conda activate develop
+ 1538  cd dl_home/PRJ_IMPUTATION/
+ 1539  ls
+ 1540  cd ..
+ 1541  cd UNET_BIKO/
+ 1542  ls
+ 1543  ls weights/
+ 1544  vi prediction_hw.py 
+ 1545  mv model_training_ww.py _model_training_ww.py
+ 1546  ls
+ 1547  mv prediction_ww.py _prediction_ww.py
+ 1548  ls -ltr
+ 1549  ll
+ 1550  mv predict_img_ww.py _predict_img_ww.py
+ 1551  ls
+ 1552  ls _
+ 1553  ls _*
+ 1554  mv _model_training_ww.py orig_model_training_ww.py
+ 1555  mv _predict_img_ww.py orig_predict_img_ww.py
+ 1556  mv _prediction_ww.py orig_prediction_ww.py
+ 1557  ls -ltr
+ 1558  ll
+ 1559  mv dataset_creator_ww.py orig_dataset_creator_ww.py
+ 1560  mv dataset_creator_ww_river_lake.py orig_dataset_creator_ww_river_lake.py
+ 1561  ll
+ 1562  vi prediction_hw.py
+ 1563  python prediction_hw.py
+ 1564  ls -ltr
+ 1565  ls -ltr output_pred/
+ 1566  ls -ltr output_pred/plot_prediction/
+ 1567  ls -ltr
+ 1568  vi predict_img_hw.py
+ 1569  python  predict_img_hw.py
+ 1570  cat predict_img_hw.py
+ 1571  grep save_fig_path predict_img_hw.py 
+ 1572  cd dl_home
+ 1573  conda activate develop
+ 1574  cd UNET_BIKO/
+ 1575  ls
+ 1576  history
+ 1577  ls -ltr
+ 1578  vi dataset_creator_hw.py
+ 1579  cd /mnt/
+ 1580  ls
+ 1581  cd Datasets/
+ 1582  ls
+ 1583  cd UNET/
+ 1584  ls
+ 1585  cd TEST/
+ 1586  ls -ltr
+ 1587  ln -s Highways_ALL Highways
+ 1588  ll
+ 1589  cd ..
+ 1590  cd TRAIN/
+ 1591  ln -s Highways_ALL Highways
+ 1592  ls
+ 1593  cd
+ 1594  cd dl_home
+ 1595  cd UNET_BIKO/
+ 1596  ls -ltr
+ 1597  cat dataset_creator_hw.py
+ 1598  ls -ltr
+ 1599  ll /mnt/users/defausti/highways/
+ 1600  ls -ltr
+ 1601  python dataset_creator_hw.py
+ 1602  ls -ltr
+ 1603  vi model_training_hw.py
+ 1604  python model_training_hw.py 
+ 1605  ls -ltr
+ 1606  python highways_prediction.py
+ 1607  ls *hw*
+ 1608  python prediction_hw.py
+ 1609  python predict_img_hw.py 
+ 1610  ls -ltr
+ 1611  ls output_pred/plot_prediction/
+ 1612  ls -ltr  output_pred/plot_prediction/
+ 1613  date
+ 1614  cat predict_img_hw.py  | grep  png
+ 1615  cat predict_img_hw.py  | grep  save_fig_path
+ 1616  vi predict_img_hw.py 
+ 1617  python predict_img_hw.py 
+ 1618  vi predict_img_hw.py 
+ 1619  python predict_img_hw.py 
+ 1620  vi predict_img_hw.py 
+ 1621  ls
+ 1622  ls weights/
+ 1623  ls -ltr weights/
+ 1624  vi predict_img_hw.py 
+ 1625  vi prediction_hw.py 
+ 1626  python predict_img_hw.py 
+ 1627  cd /mnt/
+ 1628  ls
+ 1629  cd Datasets/
+ 1630  ls
+ 1631  cd UNET/
+ 1632  ls -ltr
+ 1633  cd TRAIN/
+ 1634  ls
+ 1635  unzip MWT.zip 
+ 1636  ls -ltr
+ 1637  mv TRAIN_MWT Highways_MWT
+ 1638  mv TEST_MWT ../TEST/Highways_MWT
+ 1639  ll
+ 1640  rm MWT.zip 
+ 1641  rm Highways
+ 1642  history | grep ln
+ 1643  ln -s Highways_MWT Highways
+ 1644  cd ..
+ 1645  cd TEST/
+ 1646  ln -s Highways_MWT Highways
+ 1647  ls -ltr
+ 1648  rm Highways
+ 1649  ln -s Highways_MWT Highways
+ 1650  ll
+ 1651  cd ..
+ 1652  cd
+ 1653  cd dl_home
+ 1654  ls
+ 1655  cd UNET_BIKO/
+ 1656  ls -ltr
+ 1657  python dataset_creator_hw.py
+ 1658  ls
+ 1659  python model_training_hw.py 
+ 1660  ls -ltr weights/
+ 1661  date
+ 1662  python prediction_hw.py
+ 1663  python predict_img_hw.py 
+ 1664  vi predict_img_hw.py 
+ 1665  python predict_img_hw.py 
+ 1666  vi predict_img_hw.py 
+ 1667  python predict_img_hw.py 
+ 1668  ls -ltr
+ 1669  cat predict_img_hw.py | grep model
+ 1670  ls -ltr weights/
+ 1671  ls -ltr weights/"model_unet_20_32_12_1_percentile_min_max_HW"
+ 1672  vi predict_img_hw.py 
+ 1673  python predict_img_hw.py
+ 1674  ls
+ 1675  cd /mnt/Datasets/UNET/
+ 1676  ls
+ 1677  cd TRAIN/
+ 1678  ls
+ 1679  rm Highways
+ 1680  ln -s Highways_ALL Highways
+ 1681  ll
+ 1682  ls -ltr
+ 1683  cd ..
+ 1684  cd TEST/
+ 1685  rm Highways
+ 1686  ln -s Highways_ALL Highways
+ 1687  ls -ltr
+ 1688  cd 
+ 1689  cd dl_home
+ 1690  cd UNET_BIKO/
+ 1691  ls
+ 1692  cd weights/
+ 1693  ls
+ 1694  ls -ltr
+ 1695  mv model_unet_20_32_12_1_percentile_min_max_HW model_unet_20_32_12_1_percentile_min_max_HW_MWT
+ 1696  cd ..
+ 1697  ls
+ 1698  python dataset_creator_hw.py 
+ 1699  python model_training_hw.py 
+ 1700  python prediction_hw.py
+ 1701  ls -ltr weights/
+ 1702  ls -ltr output_pred/
+ 1703  ls -ltr output_pred/plot_prediction/
+ 1704  date
+ 1705  mv model_unet_20_32_12_1_percentile_min_max_HW_plots_pred.pdf model_unet_20_32_12_1_percentile_min_max_HW_plots_pred_ALL.pdf
+ 1706  cd output_pred/plot_prediction/
+ 1707  mv model_unet_20_32_12_1_percentile_min_max_HW_plots_pred.pdf model_unet_20_32_12_1_percentile_min_max_HW_plots_pred_ALL.pdf
+ 1708  ls -ltr
+ 1709  mv  model_unet_20_32_12_1_percentile_min_max_HW_jacc_plot.png model_unet_20_32_12_1_percentile_min_max_HW_jacc_plot_ALL.png
+ 1710  cd ..
+ 1711  vi predict_img_hw.py
+ 1712  python predict_img_hw.py 
+ 1713  ls /mnt/users/defausti/highways/
+ 1714  vi predict_img_hw.py
+ 1715  python predict_img_hw.py 
+ 1716  vi utils_ww.py 
+ 1717  cd dl_home
+ 1718  cd UNET_BIKO/
+ 1719  cat predict_img_hw.py 
+ 1720  cd ..
+ 1721  cd
+ 1722  cd dl_home
+ 1723  cd UNET_BIKO/
+ 1724  ls -ltr
+ 1725  cd /mnt/Datasets/
+ 1726  ls
+ 1727  cd UNET/
+ 1728  ls
+ 1729  cd TEST/
+ 1730  ls -ltr
+ 1731  rm Highways
+ 1732  ln -s Highways_MWT Highways
+ 1733  cd ..
+ 1734  cd TRAIN/
+ 1735  rm Highways
+ 1736  ln -s Highways_MWT Highways
+ 1737  cd
+ 1738  cd dl_home
+ 1739  ls -ltr
+ 1740  cd UNET_BIKO/
+ 1741  python dataset_creator_hw.py 
+ 1742  conda activate develop
+ 1743  python dataset_creator_hw.py 
+ 1744  python model_training_hw.py 
+ 1745  python prediction_hw.py 
+ 1746  cat predict_img_hw.py | grep LEC
+ 1747  vi predict_img_hw.py 
+ 1748  python predict_img_hw.py 
+ 1749  conda activate develop
+ 1750  cd dl_home
+ 1751  cd UNET_BIKO/
+ 1752  python predict_img_hw.py 
+ 1753  conda activate develop
+ 1754  ls
+ 1755  cd dl_home
+ 1756  ls
+ 1757  cd SATELLITE/
+ 1758  ls
+ 1759  cd landCover_OLD/
+ 1760  cd ..
+ 1761  cd landcover
+ 1762  ls
+ 1763  ls -ltr
+ 1764  cd Co
+ 1765  cd Code/
+ 1766  ls -ltr
+ 1767  vi start.sh 
+ 1768  history | grep start
+ 1769  cd Classification/
+ 1770  ls
+ 1771  cd ..
+ 1772  ls
+ 1773  history | grep python
+ 1774  history | grep 1000 -A 100 
+ 1775  history | grep 1166 -A 100 
+ 1776  cd ..
+ 1777  cd Code
+ 1778  vi ../Conf/landcover.ini
+ 1779  find /mnt/* -iname *best*
+ 1780  find /IstatDL/* -iname *best*
+ 1781  ls -ltr /IstatDL/Users/public/SavedModels/LandCover/BestModel
+ 1782  vi ../Conf/landcover.ini
+ 1783  python landcover_run.py 
+ 1784  conda install openpyxl
+ 1785  python landcover_run.py 
+ 1786  su
+ 1787  sudo Istatadmin
+ 1788  su Istatadmin
+ 1789  conda activate classifier2
+ 1790  python landcover_run.py 
+ 1791  vi ../Conf/landcover.ini
+ 1792  python landcover_run.py 
+ 1793  ls -ltr
+ 1794  vi ../Conf/landcover.ini
+ 1795  ls -ltr EUROSAT_LUCAS.csv
+ 1796  mv EUROSAT_LUCAS.csv EUROSAT_LUCAS.csv_
+ 1797  python landcover_run.py 
+ 1798  mv  EUROSAT_LUCAS.csv_ EUROSAT_LUCAS.csv
+ 1799  cp  EUROSAT_LUCAS.csv EUROSAT_LUCAS_8.csv
+ 1800  vi EUROSAT_LUCAS_8.csv
+ 1801  conda activate develop
+ 1802  conda activate classifier2
+ 1803  cd dl_home/SATELLITE/
+ 1804  ls
+ 1805  cd landcover
+ 1806  ls
+ 1807  cd Code/
+ 1808  ls
+ 1809  vi /IstatDL/Users/public/SavedModels/LandCover/BestModel/output_classes_8.csv
+ 1810  vi EUROSAT_LUCAS_8.csv 
+ 1811  vi ../Conf/landcover.ini
+ 1812  python predict_img_hw.py 
+ 1813  python landcover_run.py 
+ 1814  vi ../Conf/landcover.ini
+ 1815  python landcover_run.py 
+ 1816  vi ../Conf/landcover.ini
+ 1817  python landcover_run.py 
+ 1818  vi ../Conf/landcover.ini
+ 1819  python landcover_run.py 
+ 1820  bg
+ 1821  nvidia-smi -l 1
+ 1822  df -h
+ 1823  cd dl_home
+ 1824  cd SATELLITE/
+ 1825  ls
+ 1826  cd land
+ 1827  cd landcover
+ 1828  ls
+ 1829  cd Code/
+ 1830  ls -ls -ltr
+ 1831  date
+ 1832  ls *_1*.csv
+ 1833  ls *_1.csv
+ 1834  ls -ltr  *_1.csv
+ 1835  vi Classification/lc_classification.py 
+ 1836  conda activate classifier2
+ 1837  cd dl_home
+ 1838  cd UNET_BIKO/
+ 1839  ls -ltr
+ 1840  cp dataset_creator_hw.py dataset_creator_ww.py
+ 1841  vi dataset_creator_ww.py 
+ 1842  cd /mnt/Datasets/UNET/
+ 1843  ls
+ 1844  cd TEST/
+ 1845  ls
+ 1846  mkdir ww
+ 1847  cp Lake/SeaLake_* ww/
+ 1848  cd ww/
+ 1849  python
+ 1850  ls
+ 1851  rm SeaLake_*
+ 1852  ls
+ 1853  mv ww ww1
+ 1854  cd ..
+ 1855  mv ww ww1
+ 1856  mkdir ww
+ 1857  cp River/* ww/.
+ 1858  cd ww
+ 1859  python
+ 1860  ls
+ 1861  rm River_*
+ 1862  cd ..
+ 1863  mv ww1/* ww/.
+ 1864  cd ww
+ 1865  ls
+ 1866  cd ..
+ 1867  rm -r ww1
+ 1868  cd ..
+ 1869  cd TRAIN/
+ 1870  mkdir ww
+ 1871  cp Lake/* ww/.
+ 1872  cd ww
+ 1873  python
+ 1874  ls
+ 1875  rm SeaLake_*
+ 1876  cd ..
+ 1877  mv ww ww1
+ 1878  mkdir ww
+ 1879  cp River/* ww/.
+ 1880  cd ww
+ 1881  ls
+ 1882  python
+ 1883  ls -ltr
+ 1884  rm River_*
+ 1885  mv ../ww1/* .
+ 1886  ls
+ 1887  ls | wc- l
+ 1888  ls | wc - l
+ 1889  cd ..
+ 1890  ll
+ 1891  rm -r ww1
+ 1892  cd
+ 1893  cd dl_home
+ 1894  cd UNET_BIKO/
+ 1895  ls
+ 1896  dir
+ 1897  vi dataset_creator_ww.py 
+ 1898  python dataset_creator_ww.py 
+ 1899  conda activate classifier2
+ 1900  conda activate develop
+ 1901  python dataset_creator_ww.py 
+ 1902  mkdir  /mnt/users/defausti/ww
+ 1903  python dataset_creator_ww.py 
+ 1904  ls -ltr
+ 1905  cp model_training_hw.py model_training_ww.py
+ 1906  vi model_training_ww.py 
+ 1907  python model_training_ww.py 
+ 1908  ls -ltr
+ 1909  cp prediction_hw.py prediction_ww.py 
+ 1910  vi prediction_ww.py 
+ 1911  python prediction_ww.py 
+ 1912  ls output_pred/
+ 1913  ls -ltr output_pred/
+ 1914  ls
+ 1915  cp predict_img_hw.py predict_img_ww.py 
+ 1916  vi predict_img_ww.py 
+ 1917  python predict_img_ww.py 
+ 1918  vi predict_img_ww.py 
+ 1919  python predict_img_ww.py 
+ 1920  mkdir /mnt/users/defausti/ww/immagini_sentinel/
+ 1921  cp /mnt/users/defausti/highways/immagini_sentinel/PISA.tif  /mnt/users/defausti/ww/immagini_sentinel/PISA.tif
+ 1922  ls
+ 1923  cd dl_home
+ 1924  lls
+ 1925  ls
+ 1926  vi history.log
+ 1927  su istatadmin
+ 1928  su Istatadmin
+ 1929  cd
+ 1930  ls -ltr
+ 1931  cd dl_home
+ 1932  ls
+ 1933  cd SATELLITE/
+ 1934  ls
+ 1935  cd landCover_OLD/
+ 1936  ls -ltr
+ 1937  cd Code/
+ 1938  ls
+ 1939  ls -ltr
+ 1940  vi log
+ 1941  vi nohup.out_
+ 1942  ls
+ 1943  cd ..
+ 1944  ls
+ 1945  cd landcover_TRASH/
+ 1946  ls
+ 1947  cd ..
+ 1948  ls -ltr
+ 1949  cd landcover
+ 1950  ls -ltr
+ 1951  cd Code/
+ 1952  ls
+ 1953  python landcover_run.py 
+ 1954  conda activate 
+ 1955  conda activate a
+ 1956  conda info --envs
+ 1957  conda activate develop
+ 1958  python landcover_run.py 
+ 1959  vi ../Conf/landcover.ini
+ 1960  cp ../Conf/landcover.ini  ../Conf/landcover_139_10.ini
+ 1961  cp ../Conf/landcover.ini  ../Conf/landcover_LAST.ini
+ 1962  cp ../Conf/landcover_139_10.ini ../Conf/landcover.ini
+ 1963  vi ../Conf/landcover.ini
+ 1964  python landcover_run.py 
+ 1965  python landcover_run.py > logdiego.txt
+ 1966  vi  logdiego.txt
+ 1967  cp logdiego.txt /mnt/users/.
+ 1968  ls
+ 1969  cd dl_home
+ 1970  ls
+ 1971  cd UNET_BIKO/
+ 1972  ls -ltr
+ 1973  hisotry
+ 1974  history
+ 1975  vi ../Conf/landcover_LAST.ini
+ 1976  ls
+ 1977  ls -ltr | grep py
+ 1978  vi dataset_creator_hw.py
+ 1979  ls /mnt/Datasets/UNET/TRAIN/
+ 1980  vi dataset_creator_hw.py
+ 1981  ls -a /mnt/Datasets/UNET/TRAIN/
+ 1982  ls -la /mnt/Datasets/UNET/TRAIN/
+ 1983  history | grep High
+ 1984  ls
+ 1985  vi orig_model_training_ww.py
+ 1986  ls -ltr
+ 1987  vi model_training_hw.py
+ 1988  grep loss ./*py
+ 1989  ls -ltr
+ 1990  vi ./model_unet_ww.py
+ 1991  grep model_unet_ww ./*py
+ 1992  vi  ./prediction_hw.py
+ 1993  vi  ./model_training_hw.py
+ 1994  grep Sequential *py
+ 1995  grep model  *py
+ 1996  grep keras  *py 
+ 1997  grep keras  *py | grep Model
+ 1998  vi model_unet_ww.py
+ 1999  exit
+ 2000  ls -ltr
+ 2001  cd defausti/
+ 2002  ls -ltr
+ 2003  ls -ltr UNET_BIKO/
+ 2004  du -su UNET_BIKO/
+ 2005  du -sh UNET_BIKO/
+ 2006  ll /home/
+ 2007  ll -du /home/
+ 2008  ll -du /home
+ 2009  du -sh /home
+ 2010  ls -ltr
+ 2011  cd UNET_BIKO/
+ 2012  ls -ltr
+ 2013  ls -ltr 
+ 2014  du -sh ./*
+ 2015  du -sh ./output_pred/
+ 2016  ls -ltr
+ 2017  ls -ltr output_pred/
+ 2018  cd ..
+ 2019  sudo cp -r  UNET_BIKO /mnt/.
+ 2020  sudo cp -r  UNET_BIKO /mnt/
+ 2021  cp -r  UNET_BIKO /mnt/
+ 2022  cp -r  UNET_BIKO /mnt/users/Input/.
+ 2023  cp -r  UNET_BIKO /mnt/users/Output/
+ 2024  cp -r  UNET_BIKO  /IstatDL/Users/public/.
+ 2025  ls
+ 2026  su Istatadmin
+ 2027  cp -r  UNET_BIKO  /IstatDL/Users/cerasti/.
+ 2028  cp -r  UNET_BIKO  /IstatDL/Users/cerasti
+ 2029  ll   /IstatDL/Users/cerasti
+ 2030  ll -ltr   /IstatDL/Users/cerasti
+ 2031  cp -r  UNET_BIKO  /mnt/Users/cerasti/.
+ 2032  cp -r  UNET_BIKO  /mnt/users/cerasti/
+ 2033  ls /IstatDL/
+ 2034  ls /IstatDL/Users/
+ 2035  ll ls /IstatDL/Users/
+ 2036  su 
+ 2037  cp -r  UNET_BIKO  /IstatDL/Users/public/ 
+ 2038  cp -r  UNET_BIKO  /IstatDL/Users/public/.
+ 2039  cp -r  UNET_BIKO2  /IstatDL/Users/public/.
+ 2040  cp -r  UNET_BIKO  /IstatDL/Users/public/UNET_BIKO2
+ 2041  ll /IstatDL/Users/public/UNET_BIKO2
+ 2042  sudo Istatadmin
+ 2043  ls -ltr
+ 2044  cd UNET_BIKO/
+ 2045  ls -ltr
+ 2046  history | grep py
+ 2047  ls -ltr *dataset*
+ 2048  vi dataset_creator_hw.py
+ 2049  history | grep py
+ 2050  ls -ltr *trainig*
+ 2051  ls -ltr *train*
+ 2052  ls -ltr *odel*
+ 2053  history | grep py
+ 2054  ls -ltr *unet*
+ 2055  vi model_unet_ww.py 
+ 2056  ls -ltr *pred*
+ 2057  vi predict_img_ww.py
+ 2058  ls -ltr
+ 2059  history > historyFab.log
+ 2060  vi historyFab.log
+ 2061  vi historyFab.log | grep Cat
+ 2062  cat  historyFab.log | grep Cat
+ 2063  cat  historyFab.log | grep adm
+ 2064  history > historyFab.log
